@@ -1,7 +1,9 @@
+import ApplicationRoutes from "./routes";
+
 function App() {
   return (
     <>
-      <h1>Video Calling App</h1>
+      <ApplicationRoutes />
     </>
   );
 }
